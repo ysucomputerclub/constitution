@@ -51,7 +51,11 @@ Co-Chair - shall assist the Chair to coordinate timely group meetings, prepare a
 
 Treasurer - shall manage the finances of the Youngstown Penguin Hackers. Shall record income and expenditures and review budgets proposed by the events committee. The treasurer must review each proposed expenditure with the Co-treasurer.
 
-Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngstown Penguin Hackers. Shall assist the Treasure to record income, expenditures and review budgets proposed by the events committee. The Co-Treasurer must review each proposed expenditure with the Treasurer.Section 4: Officer RemovalThe members of the organization may remove an officer from office by a two thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
+Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngstown Penguin Hackers. Shall assist the Treasure to record income, expenditures and review budgets proposed by the events committee. The Co-Treasurer must review each proposed expenditure with the Treasurer.
+
+###Section 4: Officer Removal
+
+The members of the organization may remove an officer from office by a two thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
 
 ##Article V. Financial Procedures
 
