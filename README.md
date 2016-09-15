@@ -1,6 +1,6 @@
-#Penguin Hackers Constitution
+#Penguin Hackers' Constitution
 
-The is the official copy of the Penguin Hackers Consitituion is located at https://github.com/penguinhackers/constitution/ - any other copies are invalid or recreations
+The is the official copy of the Penguin Hackers' Consitituion is located at https://github.com/penguinhackers/constitution/ - any other copies are invalid or recreations
 
 Visit us at http://penguinhackers.io/
 
