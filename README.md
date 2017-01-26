@@ -24,7 +24,7 @@ Membership is open to any YSU students who are interested in creative technology
 
 When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A two thirds of the officers’ votes are required to take the removal of membership action.
 
-Members wishing to withdraw from YPH will need to contact the Chair and Co-Chair of the organization and state his or her intentions of withdrawal in writing. The either chair shall inform the officers of the member’s withdrawal.
+Members wishing to withdraw from YPH will need to contact the Chair and Co-Chair of the organization and state his or her intentions of withdrawal in writing. Then either chair shall inform the officers of the member’s withdrawal.
 
 ##Article IV. Officers
 
