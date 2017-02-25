@@ -20,6 +20,10 @@ The objectives of the organization shall be:
 
 Membership is open to any YSU students who are interested in creative technology.
 
+##Article IIII. Membership duties
+
+Youngstown Penguin Hackers hosts events throughout the academic year. Every event shall be lead by a self appointed member of Youngstown Penguin Hackers - even non-officers may choose to lead an event. This member shall delegate tasks as needed to other Youngstown Penguin Hackers members.
+
 ###Section 1: Procedure for disciplining and/or removing a member
 
 When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A two thirds of the officers’ votes are required to take the removal of membership action.
@@ -28,7 +32,7 @@ Members wishing to withdraw from YPH will need to contact the Chair and Co-Chair
 
 ##Article IV. Officers
 
-Officers consist of Chair, Co-Chair, Treasurer, Co-Treasurer and an event organization committee.
+Officers consist of Chair, Co-Chair, Treasurer, and Co-Treasurer.
 
 ###Section 1: Requirements
 
@@ -36,12 +40,16 @@ Officers consist of Chair, Co-Chair, Treasurer, Co-Treasurer and an event organi
 2. The Co-Chair and Co-Treasurer must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next two years. 
 3. The Chair and Treasurer must have been student at YSU for at least one academic year. 
 
-###Section 2: Officer Selection
+###Section 2: Time of Officer Selection
 
-1. Officer Elections Co-Chair and Co-Treasurer shall be held in September. Members shall be notified of elections at least 1 week prior to the election. The new officers shall begin their terms on the day they are notified. 
-2. Officer Elections Chair and Treasurer shall be held in April. Members shall be notified of elections at least 1 week prior to the election. The new officers shall begin their terms on the day they are notified. 
-3. Event Organizing Committee shall be formed in September and shall consist of no less than three volunteers who at the time of commit to carrying out to the best of their ability the mission of Youngstown Penguin Hackers through organizing events. 
-    1. Every event shall be lead by a self appointed member of the Event Organizing Committee. This member shall delegate tasks as needed to other Event Organization Committee members who may as appropriate further delegate tasks to YSU students. 
+1. Officer Elections Co-Chair and Co-Treasurer shall be held in September. The new officers shall begin their terms on the day they are notified. 
+2. Officer Elections Chair and Treasurer shall be held in April. The new officers shall begin their terms on the day they are notified.
+
+###Section 2: Officer Selection Process
+
+1. An open call for officer applications shall be sent to all members by the Chair and must stay open for at least 1 week. It must include the applicant's name and and reasons why the applicant believes they'll be a good officer.
+2. Once officer applications have closed an open call for votes shall be sent to all members by the Chair and must stay open for at least 1 week.
+3. The winners and number of votes (but not for whom who voted) shall be announced by the Chair during an open meeting.
 
 ###Section 3: Officer Duties
 
