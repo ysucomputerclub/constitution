@@ -45,13 +45,13 @@ Officers consist of Chair, Co-Chair, Treasurer, and Co-Treasurer.
 1. Officer Elections Co-Chair and Co-Treasurer shall be held in September. The new officers shall begin their terms on the day they are notified. 
 2. Officer Elections Chair and Treasurer shall be held in April. The new officers shall begin their terms on the day they are notified.
 
-###Section 2: Officer Selection Process
+###Section 3: Officer Selection Process
 
 1. An open call for officer applications shall be sent to all members by the Chair and must stay open for at least 1 week. It must include the applicant's name and and reasons why the applicant believes they'll be a good officer.
 2. Once officer applications have closed an open call for votes shall be sent to all members by the Chair and must stay open for at least 1 week.
 3. The winners and number of votes (but not for whom who voted) shall be announced by the Chair during an open meeting.
 
-###Section 3: Officer Duties
+###Section 4: Officer Duties
 
 Chair - shall coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed.
 
@@ -61,7 +61,7 @@ Treasurer - shall manage the finances of the Youngstown Penguin Hackers. Shall r
 
 Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngstown Penguin Hackers. Shall assist the Treasure to record income, expenditures and review budgets proposed by the events committee. The Co-Treasurer must review each proposed expenditure with the Treasurer.
 
-###Section 4: Officer Removal
+###Section 5: Officer Removal
 
 The members of the organization may remove an officer from office by a two thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
 
