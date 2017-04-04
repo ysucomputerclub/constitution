@@ -18,13 +18,21 @@ The objectives of the organization shall be:
 
 ## Article III. Membership
 
+### Section 1: Requiements for membership
+
 Membership is open to any YSU students who are interested in creative technology.
+
+### Section 2: Active membership
+
+A member is considered an active member if they have been "active" in the Youngstown Penguin Hackers Slack messenger (https://yph.slack.com/) in the last 30 days.
 
 ## Article IIII. Membership duties
 
-Youngstown Penguin Hackers hosts events throughout the academic year. Every event shall be lead by a self appointed member of Youngstown Penguin Hackers - even non-officers may choose to lead an event. This member shall delegate tasks as needed to other Youngstown Penguin Hackers members.
+### Section 1: Procedure for hosting an event
 
-### Section 1: Procedure for disciplining and/or removing a member
+Youngstown Penguin Hackers hosts events throughout the academic year. Every event shall be led by a self appointed member of Youngstown Penguin Hackers - even non-officers may choose to lead an event. This member shall delegate tasks as needed to other Youngstown Penguin Hackers members.
+
+### Section 2: Procedure for disciplining and/or removing a member
 
 When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A two thirds of the officers’ votes are required to take the removal of membership action.
 
