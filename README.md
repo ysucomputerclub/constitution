@@ -34,7 +34,7 @@ Youngstown Penguin Hackers hosts events throughout the academic year. Every even
 
 ### Section 2: Procedure for disciplining and/or removing a member
 
-When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A two-thirds of the officers’ votes are required to take the removal of membership action.
+When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A three-fourths of the officers’ votes are required to take the removal of membership action.
 
 ## Article IV. Officers
 
@@ -69,7 +69,7 @@ Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngs
 
 ### Section 5: Officer Removal
 
-The members of the organization may remove an officer from office by a two-thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
+The members of the organization may remove an officer from office by a two-thirds majority vote of the membership, as determined by a publicly posted poll via the Youngstown Penguin Hackers' Slack messenger. A three-week notice must be given of intent to remove the officer.
 
 ### Section 6: Officer Withdrawal
 
@@ -94,4 +94,4 @@ All monies belonging to this organization shall be deposited and disbursed throu
 
 ## Article VII. Amendments and Revisions
 
-This constitution may be amended at any time by two-thirds vote of the active membership. The constitution is reviewed annually and subject to the approval of the Department of Student Programming.
+This constitution may be amended at any time by two-thirds vote of the membership, as determined by a publicly posted poll via the Youngstown Penguin Hackers' Slack messenger. The constitution is reviewed annually and subject to the approval of the Department of Student Programming.
