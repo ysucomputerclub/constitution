@@ -63,9 +63,9 @@ Chair - shall coordinate timely group meetings, prepare agenda for meetings, com
 
 Co-Chair - shall assist the Chair to coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed. Shall preside in the absence of the Chair.
 
-Treasurer - shall manage the finances of the Youngstown Penguin Hackers. Shall record income and expenditures and review budgets proposed by the events committee. The treasurer must review each proposed expenditure with the Co-treasurer.
+Treasurer - shall manage the finances of the Youngstown Penguin Hackers. Shall record income and expenditures and review budgets proposed by the events committee. The treasurer must review each proposed expenditure with the Co-treasurer. The Treasurer must advise students wishing to fundraise for Youngstown Penguin Hackers' activities on best-practices, and is expected to educate themselves and reach out to YSU and the community on such matters.
 
-Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngstown Penguin Hackers. Shall assist the Treasure to record income, expenditures and review budgets proposed by the events committee. The Co-Treasurer must review each proposed expenditure with the Treasurer.
+Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngstown Penguin Hackers. Shall assist the Treasure to record income, expenditures and review budgets proposed by the events committee. The Co-Treasurer must review each proposed expenditure with the Treasurer. Shall assist the Treasurer must advise students wishing to fundraise for Youngstown Penguin Hackers' activities on best-practices, and is expected to educate themselves and reach out to YSU and the community on such matters.
 
 ### Section 5: Officer Removal
 
@@ -83,7 +83,7 @@ In the case of an officer withdrawl or removal, the Chair (or Co-Chair if the Ch
 
 ### Section 1. Financial Transactions
 
-All monies belonging to this organization shall be deposited and disbursed through a bank account established for this organization at the Student Organization Finance Center and/or the Fiscal Office at YSU. All funds must be deposited within 24 hours after collection. The Treasurer and Co-Treasurer to the organization must approve and sign expenditures before payment. In the absence of either office the remaining officer must review said expenditures with the faculty advisor. The Treasurer and Co-Treasurer shall also maintain faculty advisor approval.
+All monies belonging to this organization shall be deposited and disbursed through a bank account established for this organization at the Student Organization Finance Center and/or the Fiscal Office at YSU. All funds must be deposited within 24 hours after collection. The Treasurer and Co-Treasurer to the organization must approve and sign expenditures before payment. In the absence of either office the remaining officer must review said expenditures with the faculty advisor. The Treasurer and Co-Treasurer shall also maintain faculty advisor approval of fundraising, fundraising practices, expenses, and expense practices.
 
 ## Article VI. Advisor Expectations
 
