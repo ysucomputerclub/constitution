@@ -43,8 +43,8 @@ Officers consist of Chair, Co-Chair, Treasurer, and Co-Treasurer.
 ### Section 1: Requirements
 
 1. The officers of the organization must be enrolled as students in good academic standing within the University. 
-2. The Co-Chair and Co-Treasurer must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next two years. 
-3. The Chair and Treasurer must have been student at YSU for at least one academic year. 
+2. The Co-Chair and Co-Treasurer must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next two full academic years. 
+3. The Chair and Treasurer must have been student at YSU for at least one academic year and must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year. 
 
 ### Section 2: Time of Officer Selection
 
