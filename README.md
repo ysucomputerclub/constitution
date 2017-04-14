@@ -36,8 +36,6 @@ Youngstown Penguin Hackers hosts events throughout the academic year. Every even
 
 When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A two-thirds of the officers’ votes are required to take the removal of membership action.
 
-Members wishing to withdraw from YPH will need to contact the Chair and Co-Chair of the organization and state his or her intentions of withdrawal in writing. Then either chair shall inform the officers of the member’s withdrawal.
-
 ## Article IV. Officers
 
 Officers consist of Chair, Co-Chair, Treasurer, and Co-Treasurer.
@@ -72,6 +70,14 @@ Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngs
 ### Section 5: Officer Removal
 
 The members of the organization may remove an officer from office by a two-thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
+
+### Section 6: Officer Withdrawl
+
+Officers wishing to withdraw from YPH will need to contact all other officers of the organization and state his or her intentions of withdrawal in writing. 
+
+### Section 7: Filling an Empty Officer Role in the case of an Officer Withdrawl or Removal
+
+In the case of an officer withdrawl or removal, the Chair (or Co-Chair if the Chair withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
 
 ## Article V. Financial Procedures
 
