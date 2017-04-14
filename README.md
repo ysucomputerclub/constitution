@@ -71,13 +71,13 @@ Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngs
 
 The members of the organization may remove an officer from office by a two-thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
 
-### Section 6: Officer Withdrawl
+### Section 6: Officer Withdrawal
 
 Officers wishing to withdraw from YPH will need to contact all other officers of the organization and state his or her intentions of withdrawal in writing. 
 
-### Section 7: Filling an Empty Officer Role in the case of an Officer Withdrawl or Removal
+### Section 7: Filling an Empty Officer Role in the case of an Officer Withdrawal or Removal
 
-In the case of an officer withdrawl or removal, the Chair (or Co-Chair if the Chair withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
+In the case of an officer Withdrawal or removal, the Chair (or Co-Chair if the Chair withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
 
 ## Article V. Financial Procedures
 
