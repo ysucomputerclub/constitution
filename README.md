@@ -1,6 +1,6 @@
 # Penguin Hackers' Constitution
 
-The is the official copy of the Penguin Hackers' Consitituion is located at https://github.com/penguinhackers/constitution/ - any other copies are invalid or recreations
+The official copy of the Penguin Hackers' Consitituion is located at https://github.com/penguinhackers/constitution/ - any other copies are invalid or recreations
 
 Visit us at http://penguinhackers.io/
 
@@ -30,11 +30,11 @@ A member is considered an active member if they have been "active" in the Youngs
 
 ### Section 1: Procedure for hosting an event
 
-Youngstown Penguin Hackers hosts events throughout the academic year. Every event shall be led by a self appointed member of Youngstown Penguin Hackers - even non-officers may choose to lead an event. This member shall delegate tasks as needed to other Youngstown Penguin Hackers members.
+Youngstown Penguin Hackers hosts events throughout the academic year. Every event shall be led by a self-appointed member of Youngstown Penguin Hackers - even non-officers may choose to lead an event. This member shall delegate tasks as needed to other Youngstown Penguin Hackers members.
 
 ### Section 2: Procedure for disciplining and/or removing a member
 
-When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A two thirds of the officers’ votes are required to take the removal of membership action.
+When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A two-thirds of the officers’ votes are required to take the removal of membership action.
 
 Members wishing to withdraw from YPH will need to contact the Chair and Co-Chair of the organization and state his or her intentions of withdrawal in writing. Then either chair shall inform the officers of the member’s withdrawal.
 
@@ -55,7 +55,7 @@ Officers consist of Chair, Co-Chair, Treasurer, and Co-Treasurer.
 
 ### Section 3: Officer Selection Process
 
-1. An open call for officer applications shall be sent to all members by the Chair and must stay open for at least 1 week. It must include the applicant's name and and reasons why the applicant believes they'll be a good officer.
+1. An open call for officer applications shall be sent to all members by the Chair and must stay open for at least 1 week. It must include the applicant's name and and reasons why the applicant believes they will be a good officer.
 2. Once officer applications have closed an open call for votes shall be sent to all members by the Chair and must stay open for at least 1 week.
 3. The winners and number of votes (but not for whom who voted) shall be announced by the Chair during an open meeting.
 
@@ -71,7 +71,7 @@ Co-Treasurer - shall assist the Treasurer in managing the finances of the Youngs
 
 ### Section 5: Officer Removal
 
-The members of the organization may remove an officer from office by a two thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
+The members of the organization may remove an officer from office by a two-thirds majority vote of the total membership. A three-week notice must be given of intent to remove the officer.
 
 ## Article V. Financial Procedures
 
@@ -88,4 +88,4 @@ All monies belonging to this organization shall be deposited and disbursed throu
 
 ## Article VII. Amendments and Revisions
 
-This constitution may be amended at any time by two thirds vote of the active membership. The constitution is reviewed annually and subject to the approval of the Department of Student Programming.
+This constitution may be amended at any time by two-thirds vote of the active membership. The constitution is reviewed annually and subject to the approval of the Department of Student Programming.
