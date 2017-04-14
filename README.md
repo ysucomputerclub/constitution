@@ -83,7 +83,7 @@ In the case of an officer withdrawl or removal, the Chair (or Co-Chair if the Ch
 
 ### Section 1. Financial Transactions
 
-All monies belonging to this organization shall be deposited and disbursed through a bank account established for this organization at the Student Organization Finance Center and/or the Fiscal Office at YSU. All funds must be deposited within 24 hours after collection. The Treasurer and Co-Treasurer to the organization must approve and sign expenditures before payment. In the absence of either office the remaining officer must review said expenditures with the faculty advisor. The Treasurer and Co-Treasurer shall also maintain faculty advisor approval of fundraising, fundraising practices, expenses, and expense practices.
+All monies belonging to this organization shall be deposited and disbursed through a bank account established for this organization at the Student Organization Finance Center and/or the Fiscal Office at YSU. All funds must be deposited within 24 hours after collection. The Treasurer and Co-Treasurer to the organization must approve and sign expenditures before payment. In the absence of either officer the remaining officer must review said expenditures with the faculty advisor. The Treasurer and Co-Treasurer shall also maintain faculty advisor approval of fundraising, fundraising practices, expenses, and expense practices.
 
 ## Article VI. Advisor Expectations
 
