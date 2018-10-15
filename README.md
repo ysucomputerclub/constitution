@@ -24,7 +24,7 @@ Membership is open to any YSU students who are interested in creative technology
 
 ### Section 2: Active membership
 
-A member is considered an active member if they have been "active" in the Youngstown Penguin Hackers Slack messenger (https://yph.slack.com/) in the last 30 days.
+A member is considered an active member if they have been "active" in the Youngstown Penguin Hackers Slack messenger (https://yph.slack.com/) and/or the Youngstown Penguin Hackers Discord guild (http://discord.penguinhackers.io) within the last 30 days.
 
 ## Article IIII. Membership duties
 
