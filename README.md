@@ -39,7 +39,7 @@ Youngstown Penguin Hackers hosts events throughout the academic year. Every even
 3. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A three-fourths of the officers’ votes are required to take the removal of membership action.
 3a. Removal consists of a ban to all Youngstown Penguin Hackers systems including but not limited to: Youngstown Penguin Hackers Slack/Discord, appearing at Youngstown Penguin Hackers Events.
 3b. After a time period of two full time semesters (one calendar year) has elapsed, the member has the ability to submit a written appeal to the current officers demonstrating a remedy of the issue. 
-4. If the member does not appear to the agreed upon meeting and/or the member decides to leave the Youngstown Penguin Hackers Slack/Discord, the member has thus waived their right to defend themselves at a meeting.
+4. If the member does not appear to the agreed upon meeting and/or the member decides to leave the Youngstown Penguin Hackers Slack/Discord, the member has thus waived their right to defend themselves at the meeting.
 
 ## Article IV. Officers
 
