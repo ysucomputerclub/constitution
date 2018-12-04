@@ -12,9 +12,9 @@ The name of this organization shall be known as Youngstown Penguin Hackers (YPH)
 
 The objectives of the organization shall be:
 
-1. To create a platform for our students to build a portfolio through personal or group projects. 
-2. To teach ourselves and each other valuable skills to compliment our university education. 
-3. To maximize the value each of us gets out of the group, we wish to network with and actively engage like-minded individuals. 
+1. To create a platform for our students to build a portfolio through personal or group projects.
+2. To teach ourselves and each other valuable skills to compliment our university education.
+3. To maximize the value each of us gets out of the group, we wish to network with and actively engage like-minded individuals.
 
 ## Article III. Membership
 
@@ -34,11 +34,11 @@ Youngstown Penguin Hackers hosts events throughout the academic year. Every even
 
 ### Section 2: Procedure for disciplining and/or removing a member
 
-1. When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor. 
-2. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue. 
+1. When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor.
+2. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share his/her perspective on the issue.
 3. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A three-fourths of the officers’ votes are required to take the removal of membership action.
 3a. Removal consists of a ban to all Youngstown Penguin Hackers systems including but not limited to: Youngstown Penguin Hackers Slack/Discord, appearing at Youngstown Penguin Hackers Events.
-3b. After a time period of two full time semesters (one calendar year) has elapsed, the member has the ability to submit a written appeal to the current officers demonstrating a remedy of the issue. 
+3b. After a time period of two full time semesters (one calendar year) has elapsed, the member has the ability to submit a written appeal to the current officers demonstrating a remedy of the issue.
 4. If the member does not appear to the agreed upon meeting and/or the member decides to leave the Youngstown Penguin Hackers Slack/Discord, the member has thus waived their right to defend themselves at the meeting.
 
 ## Article IV. Officers
@@ -47,13 +47,13 @@ Officers consist of Chair, Co-Chair, Treasurer, and Co-Treasurer.
 
 ### Section 1: Requirements
 
-1. The officers of the organization must be enrolled as students in good academic standing within the University. 
-2. The Co-Chair and Co-Treasurer must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next two full academic years. 
-3. The Chair and Treasurer must have been student at YSU for at least one academic year and must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year. 
+1. The officers of the organization must be enrolled as students in good academic standing within the University.
+2. The Co-Chair and Co-Treasurer must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next two full academic years.
+3. The Chair and Treasurer must have been student at YSU for at least one academic year and must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year.
 
 ### Section 2: Time of Officer Selection
 
-1. Officer Elections Co-Chair and Co-Treasurer shall be held in September. The new officers shall begin their terms on the day they are notified. 
+1. Officer Elections Co-Chair and Co-Treasurer shall be held in September. The new officers shall begin their terms on the day they are notified.
 2. Officer Elections Chair and Treasurer shall be held in April. The new officers shall begin their terms on the day they are notified.
 
 ### Section 3: Officer Selection Process
@@ -78,7 +78,7 @@ The members of the organization may remove an officer from office by a two-third
 
 ### Section 6: Officer Withdrawal
 
-Officers wishing to withdraw from YPH will need to contact all other officers of the organization and state his or her intentions of withdrawal in writing. 
+Officers wishing to withdraw from YPH will need to contact all other officers of the organization and state his or her intentions of withdrawal in writing.
 
 ### Section 7: Filling an Empty Officer Role in the case of an Officer Withdrawal or Removal
 
@@ -92,11 +92,11 @@ All monies belonging to this organization shall be deposited and disbursed throu
 
 ## Article VI. Advisor Expectations
 
-1. The advisor to YPH shall be a YSU employee as defined by the Human Resources Department. The advisor shall be willing to obtain an appropriate level of experience, resource information and knowledge related to the mission, purpose and activities of the organization. 
-2. The advisor shall regularly attend executive and general meetings. He/she shall be available for consultation outside of these meetings. 
-3. The advisor shall assist the organization with the development of goals and objectives for the academic year. The advisor shall also assist the organization with event planning and facilitation. When necessary, the advisor shall be willing to attend events when necessary as identified through the planning process. 
-4. The advisor shall be aware of the University student rules and shall assist the organization with adherence to these expectations. 
+1. The advisor to YPH shall be a YSU employee as defined by the Human Resources Department. The advisor shall be willing to obtain an appropriate level of experience, resource information and knowledge related to the mission, purpose and activities of the organization.
+2. The advisor shall regularly attend executive and general meetings. He/she shall be available for consultation outside of these meetings.
+3. The advisor shall assist the organization with the development of goals and objectives for the academic year. The advisor shall also assist the organization with event planning and facilitation. When necessary, the advisor shall be willing to attend events when necessary as identified through the planning process.
+4. The advisor shall be aware of the University student rules and shall assist the organization with adherence to these expectations.
 
 ## Article VII. Amendments and Revisions
 
-This constitution may be amended at any time by two-thirds vote of the membership, as determined by a publicly posted poll via the Youngstown Penguin Hackers' Slack messenger. The constitution is reviewed annually and subject to the approval of the Department of Student Programming.
+This constitution may be amended at any time by two-thirds vote of the membership, as determined by a publicly posted poll via the Youngstown Penguin Hackers' Slack messenger and Youngstown Penguin Hackers' Discord guild. The constitution is reviewed annually and subject to the approval of the Department of Student Programming.
