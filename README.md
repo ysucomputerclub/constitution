@@ -70,7 +70,7 @@ Vice-President - shall assist the President to coordinate timely group meetings,
 
 Treasurer - shall manage the finances of the Youngstown Penguin Hackers. Shall record income and expenditures and review budgets proposed by the events committee. The Treasurer must review each proposed expenditure with the President. The Treasurer must advise students wishing to fundraise for Youngstown Penguin Hackers' activities on best-practices, and is expected to educate themselves and reach out to YSU and the community on such matters. The Treasurer must work with the advisor to fill out and submit a 990-N every tax year.
 
-Secretary - shall keep meeting notes for YPH meetings, keep documentation of events held by YPH, write procedual documentation on how to go about running events including new events that YPH may run in the future and, maintain organization of the YPH Google Drive.
+Secretary - shall keep meeting notes for YPH meetings, keep documentation of events held by YPH, write procedual documentation on how to go about running events including new events that YPH may run in the future and, maintain organization of the YPH Google Drive. The Secretary shall also maintain current members in Symplicity to comply with YSU Student Activities.
 
 ### Section 5: Officer Removal
 
