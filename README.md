@@ -6,15 +6,15 @@ Visit us at https://ysucomputerclub.com
 
 ## Article I. Name
 
-The name of this organization shall be known as YSU Computer Club (YSU CC).
+The name of this organization shall be known as YSU Computer Club (YCC).
 
 ## Article II. Purpose & Goals
 
 The objectives of the organization shall be:
 
-1. To be a hub for any student with a vested interest in the world of computing, including, but not limited to: coding, gaming, hardware, and robotics.
+1. To be a community for any student with a vested interest in the world of computing, including, but not limited to: coding, gaming, hardware, and robotics.
 2. To host events including, but not limited to: HackYSU, Local Hack Day, and any other educational/recreational computing events the organization sees fit.
-3. To promote membership in YSU IEEE, YSU Robotics, ACM, NEOACM, and Code Youngstown, and attendance of their events. 
+3. To promote membership in ACM (http://acm.org), NEOACM (http://www.neoacmchapter.org/), and Code Youngstown (https://codeyoungstown.com/), and attendance of their events. 
 
 ## Article III. Membership
 
@@ -24,9 +24,9 @@ Membership is open to any YSU students who are interested in any facet of techno
 
 ### Section 2: Active membership
 
-A member is considered an active member if they have been "active" in the YSU Computer Club Discord guild (http://discord.YSUComputerClub.com) within the last 30 days.
+A member is considered an active member if they have been registered in Symplicity and have been active in the YSU Computer Club Discord (http://discord.YSUComputerClub.com).
 
-## Article IIII. Membership duties
+## Article IV. Membership duties
 
 ### Section 1: Procedure for hosting an event
 
@@ -41,7 +41,7 @@ YSU Computer Club hosts events throughout the academic year. Every event shall b
 3b. After a time period of two full time semesters (one calendar year) has elapsed, the member has the ability to submit a written appeal to the current officers demonstrating a remedy of the issue.
 4. If the member does not appear to the agreed upon meeting and/or the member decides to leave the YSU Computer Club Discord, the member has thus waived their right to defend themselves at the meeting.
 
-## Article IV. Officers
+## Article V. Officers
 
 Officers consist of President, Vice-President, Treasurer, Secretary, and Lead Safety Officer.
 
@@ -70,9 +70,9 @@ Vice-President - shall assist the President to coordinate timely group meetings,
 
 Treasurer - shall manage the finances of the YSU Computer Club. Shall record income and expenditures and review budgets proposed by the events committee. The Treasurer must review each proposed expenditure with the President. The Treasurer must advise students wishing to fundraise for YSU Computer Club's activities on best-practices, and is expected to educate themselves and reach out to YSU and the community on such matters. The Treasurer must work with the advisor to complete and submit a 990-N every tax year.
 
-Secretary - shall keep meeting notes for all meetings, keep documentation of events held, write procedual documentation on how to go about running events including new events that YSU CC may run in the future and, maintain organization of the YSU CC Google Drive. The Secretary shall also maintain current members in Symplicity to comply with YSU Student Activities.
+Secretary - shall keep meeting notes for all meetings, keep documentation of events held, write procedual documentation on how to go about running events including new events that YCC may run in the future and, maintain organization of the YCC Google Drive. The Secretary shall also maintain current members in Symplicity to comply with YSU Student Activities.
 
-Lead Safety Officer - shall be the primary point of contact regarding disputes between members in the club and at any YSU CC event. They shall also be the primary liaison with Student Conduct should an issue or incident occur, and shall be responsible to be up to date on the Student Code of Conduct and convey these policies to the organization.
+Lead Safety Officer - shall be the primary point of contact regarding disputes between members in the club and at any YCC event. They shall also be the primary liaison with Student Conduct should an issue or incident occur, and shall be responsible to be up to date on the Student Code of Conduct and convey these policies to the organization.
 
 
 ### Section 5: Officer Removal
@@ -87,19 +87,19 @@ Officers wishing to withdraw will need to contact all other officers of the orga
 
 In the case of an officer Withdrawal or removal, the President (or Vice-President if the President withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
 
-## Article V. Financial Procedures
+## Article VI. Financial Procedures
 
 ### Section 1. Financial Transactions
 
 All monies belonging to this organization shall be deposited and disbursed through a bank account established for this organization at the Student Organization Finance Center and/or the Fiscal Office at YSU. All funds must be deposited within 24 hours after collection. The Treasurer or President must approve and sign expenditures before payment. In the absence of both officers the remaining officers must review said expenditures with the faculty advisor. The Treasurer and President shall also maintain faculty advisor approval of fundraising, fundraising practices, expenses, and expense practices.
 
-## Article VI. Advisor Expectations
+## Article VII. Advisor Expectations
 
-1. The advisor to YSU CC shall be a YSU employee as defined by the Human Resources Department. The advisor shall be willing to obtain an appropriate level of experience, resource information and knowledge related to the mission, purpose and activities of the organization.
+1. The advisor to YCC shall be a YSU employee as defined by the Human Resources Department. The advisor shall be willing to obtain an appropriate level of experience, resource information and knowledge related to the mission, purpose and activities of the organization.
 2. The advisor shall regularly attend executive and general meetings. They shall be available for consultation outside of these meetings.
 3. The advisor shall assist the organization with the development of goals and objectives for the academic year. The advisor shall also assist the organization with event planning and facilitation. When necessary, the advisor shall be willing to attend events when necessary as identified through the planning process.
 4. The advisor shall be aware of the University student rules and shall assist the organization with adherence to these expectations.
 
-## Article VII. Amendments and Revisions
+## Article VIII. Amendments and Revisions
 
 This constitution may be amended at any time by three-fifths vote of the officers, as determined by a public vote in a regular meeting. The constitution is reviewed annually and subject to the approval of the Department of Student Programming.
