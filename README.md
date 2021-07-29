@@ -1,6 +1,6 @@
 # YSU Computer Club Constitution
 
-The official copy of the YSU Computer Club Consitituion is located at https://github.com/penguinhackers/constitution/ - any other copies are invalid or recreations
+The official copy of the YSU Computer Club Consitituion is located at https://github.com/ysucomputerclub/constitution/ - any other copies are invalid or recreations
 
 Visit us at https://ysucomputerclub.com
 
@@ -36,20 +36,19 @@ YSU Computer Club hosts events throughout the academic year. Every event shall b
 
 1. When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor.
 2. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share their perspective on the issue.
-3. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A three-fourths of the officers’ votes are required to take the removal of membership action.
+3. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A three-fifths vote of the officers’ votes are required to take the removal of membership action.
 3a. Removal consists of a ban to all YSU Computer Club systems including but not limited to: YSU Computer Club Discord and appearing at YSU Computer Club Events.
 3b. After a time period of two full time semesters (one calendar year) has elapsed, the member has the ability to submit a written appeal to the current officers demonstrating a remedy of the issue.
 4. If the member does not appear to the agreed upon meeting and/or the member decides to leave the YSU Computer Club Discord, the member has thus waived their right to defend themselves at the meeting.
 
 ## Article V. Officers
 
-Officers consist of President, Vice-President, Treasurer, Secretary, and Lead Safety Officer.
+Officers consist of President, Vice President, Treasurer, Secretary, and Lead Safety Officer.
 
 ### Section 1: Requirements
 
 1. The officers of the organization must be enrolled as students in good academic standing within the University.
-2. The Vice-President and Secretary must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year.
-3. The President and Treasurer must have been student at YSU for at least one academic year and must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year.
+2. The Officers must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year.
 
 ### Section 2: Time of Officer Selection
 
@@ -66,7 +65,7 @@ Officers consist of President, Vice-President, Treasurer, Secretary, and Lead Sa
 
 President - shall coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed.
 
-Vice-President - shall assist the President to coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed. Shall preside in the absence of the President.
+Vice President - shall assist the President to coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed. Shall preside in the absence of the President.
 
 Treasurer - shall manage the finances of the YSU Computer Club. Shall record income and expenditures and review budgets proposed by the events committee. The Treasurer must review each proposed expenditure with the President. The Treasurer must advise students wishing to fundraise for YSU Computer Club's activities on best-practices, and is expected to educate themselves and reach out to YSU and the community on such matters. The Treasurer must work with the advisor to complete and submit a 990-N every tax year.
 
@@ -77,7 +76,7 @@ Lead Safety Officer - shall be the primary point of contact regarding disputes b
 
 ### Section 5: Officer Removal
 
-The officers of the organization may remove a fellow officer from office by a four-fifths majority vote of the board, as determined by a public vote in a regular meeting. A two-week notice must be given of intent to remove the officer.
+The officers of the organization may remove a fellow officer from office by a four-fifths majority vote of the board, as determined by a public vote in a regular meeting. The members may remove an officer by a two-thirds majority vote in the YCC Discord, and the poll must stay posted for a period of one week. A two-week notice must be given of intent to remove the officer as well as contacting the faculty advisor about the removal proceedings.
 
 ### Section 6: Officer Withdrawal
 
@@ -85,7 +84,7 @@ Officers wishing to withdraw will need to contact all other officers of the orga
 
 ### Section 7: Filling an Empty Officer Role in the case of an Officer Withdrawal or Removal
 
-In the case of an officer Withdrawal or removal, the President (or Vice-President if the President withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
+In the case of an officer Withdrawal or removal, the President (or Vice President if the President withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
 
 ## Article VI. Financial Procedures
 
