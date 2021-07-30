@@ -78,13 +78,13 @@ Lead Safety Officer - shall be the primary point of contact regarding disputes b
 
 The officers of the organization may remove a fellow officer from office by a four-fifths majority vote of the board, as determined by a public vote in a regular meeting. The members may remove an officer by a two-thirds majority vote in the YCC Discord, and the poll must stay posted for a period of one week. A two-week notice must be given of intent to remove the officer as well as contacting the faculty advisor about the removal proceedings.
 
-### Section 6: Officer Withdrawal
+### Section 6: Officer Resignation
 
-Officers wishing to withdraw will need to contact all other officers of the organization and state their intentions of withdrawal in writing.
+Officers wishing to withdraw will need to contact all other officers of the organization and state their intentions of resignation in writing.
 
-### Section 7: Filling an Empty Officer Role in the case of an Officer Withdrawal or Removal
+### Section 7: Filling an Empty Officer Role in the case of an Officer Resignation or Removal
 
-In the case of an officer Withdrawal or removal, the President (or Vice President if the President withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
+In the case of an officer resignation or removal, the President (or Vice President if the President withdrew or was removed) must immediately begin the Officer Selection process as per Article IV Section 3 to fill the role for the rest of the original officer's term.
 
 ## Article VI. Financial Procedures
 
