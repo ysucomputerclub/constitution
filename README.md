@@ -13,7 +13,7 @@ The name of this organization shall be known as YSU Computer Club (YCC).
 The objectives of the organization shall be:
 
 1. To be a community for any student with a vested interest in the world of computing, including, but not limited to: coding, gaming, hardware, and robotics.
-2. To host events including, but not limited to: HackYSU, Local Hack Day, and any other educational/recreational computing events the organization sees fit.
+2. To host events including, but not limited to: [HackYSU](https://hackysu.com), Local Hack Day, and any other educational/recreational computing events the organization sees fit.
 3. To promote membership in ACM (http://acm.org), NEOACM (http://www.neoacmchapter.org/), and Code Youngstown (https://codeyoungstown.com/), and attendance of their events. 
 
 ## Article III. Membership
@@ -35,7 +35,7 @@ YSU Computer Club hosts events throughout the academic year. Every event shall b
 ### Section 2: Procedure for disciplining and/or removing a member
 
 1. When any member represents the organization in an unaccepted way and/or any member behaves in a disruptive way in meetings or events, the officers must notify the advisor.
-2. After notification, a notice of the issue shall be given to the member. Two weeks after the notice, a meeting shall be held where the member shall be able to share their perspective on the issue.
+2. After notification, a notice of the issue shall be given to the member. One week after the notice, a meeting shall be held where the member shall be able to share their perspective on the issue.
 3. After this meeting, the officers have the right to remove the membership under the circumstance that the member is found to be unchanged. A three-fifths vote of the officers’ votes are required to take the removal of membership action.
 3a. Removal consists of a ban to all YSU Computer Club systems including but not limited to: YSU Computer Club Discord and appearing at YSU Computer Club Events.
 3b. After a time period of two full time semesters (one calendar year) has elapsed, the member has the ability to submit a written appeal to the current officers demonstrating a remedy of the issue.
@@ -48,7 +48,7 @@ Officers consist of President, Vice President, Treasurer, Secretary, and Lead Sa
 ### Section 1: Requirements
 
 1. The officers of the organization must be enrolled as students in good academic standing within the University.
-2. The Officers must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year.
+2. The officers must at the time of their election into office have the intent to remain a student at Youngstown State University for at least the next full academic year.
 
 ### Section 2: Time of Officer Selection
 
@@ -63,20 +63,20 @@ Officers consist of President, Vice President, Treasurer, Secretary, and Lead Sa
 
 ### Section 4: Officer Duties
 
-President - shall coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed.
+President - shall coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed. The President should also ideally be the visionary for the Club, and have a grasp on all activities and event-planning therein.
 
-Vice President - shall assist the President to coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed. Shall preside in the absence of the President.
+Vice President - shall assist the President to coordinate timely group meetings, prepare agenda for meetings, communicate with the officers and meet with the advisor when it is needed. Shall preside in the absence of the President. The Vice President should also ideally be the visionary for the Club, and have a grasp on all activities and event-planning therein.
 
 Treasurer - shall manage the finances of the YSU Computer Club. Shall record income and expenditures and review budgets proposed by the events committee. The Treasurer must review each proposed expenditure with the President. The Treasurer must advise students wishing to fundraise for YSU Computer Club's activities on best-practices, and is expected to educate themselves and reach out to YSU and the community on such matters. The Treasurer must work with the advisor to complete and submit a 990-N every tax year.
 
 Secretary - shall keep meeting notes for all meetings, keep documentation of events held, write procedual documentation on how to go about running events including new events that YCC may run in the future and, maintain organization of the YCC Google Drive. The Secretary shall also maintain current members in Symplicity to comply with YSU Student Activities.
 
-Lead Safety Officer - shall be the primary point of contact regarding disputes between members in the club and at any YCC event. They shall also be the primary liaison with Student Conduct should an issue or incident occur, and shall be responsible to be up to date on the Student Code of Conduct and convey these policies to the organization.
+Lead Safety Officer (optional, the other four officers may be trained to be the safety officer if there is nobody willing to fill this role) - shall be the primary point of contact regarding disputes between members in the club and at any YCC event. They shall also be the primary liaison with Student Conduct should an issue or incident occur, and shall be responsible to be up to date on the Student Code of Conduct and convey these policies to the organization.
 
 
 ### Section 5: Officer Removal
 
-The officers of the organization may remove a fellow officer from office by a four-fifths majority vote of the board, as determined by a public vote in a regular meeting. The members may remove an officer by a two-thirds majority vote in the YCC Discord, and the poll must stay posted for a period of one week. A two-week notice must be given of intent to remove the officer as well as contacting the faculty advisor about the removal proceedings.
+The officers of the organization may remove a fellow officer from office by a three-fourths majority vote of the board, as determined by a public vote in a regular meeting. The members may remove an officer by a two-thirds majority vote in the YCC Discord, and the poll must stay posted for a period of one week. A one week notice must be given of intent to remove the officer as well as contacting the faculty advisor about the removal proceedings.
 
 ### Section 6: Officer Resignation
 
